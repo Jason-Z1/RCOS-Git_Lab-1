@@ -7,7 +7,7 @@ Practice repository for RCOS Lab-1 work
 ### Jason Zheng
 - Class of 2028
 - Standard Market Environment for Financial Reinforcement Learning
-===
 
+---
 
 ![spongebob](https://github.com/user-attachments/assets/b3336cd5-c1af-4c1a-9c0d-e4c870614ab6)
